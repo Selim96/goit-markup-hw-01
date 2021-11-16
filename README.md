@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-houme work for 1modul
+https://selim96.github.io/goit-markup-hw-01/
